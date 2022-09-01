@@ -1,0 +1,20 @@
+.container {
+   text-align: center;
+   padding: 30px;
+}
+.title {
+    font-size: 30px;
+}
+.num-val {
+    border-radius: 5px;
+    color: forestgreen;
+    font-size: 27px;
+    font-weight: bold;
+    background-color: rgb(195, 245, 180);
+    margin-top: 25px;
+    padding: 10px;
+    min-width: 50px;
+}
+.arrow {
+    font-size: 50px;
+}
